@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FS-Grimm
 - 👀 I’m interested in videogames and progamming develpoment
-- 🌱 I’m currently learning OOP
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Software Magment
 - 📫 How to reach me ...
 
 <!---
