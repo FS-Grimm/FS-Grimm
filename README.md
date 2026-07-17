@@ -113,7 +113,7 @@
 
  Una vez que pasaba esto, se mergeaba a <b>main</b>, todos los cambios eran deployados en nuestro ambiente de producción y se movía de forma automática la US a la columna <b>Done</b>.
 
-  ¿Qué roles asumimos?. En cada iteración todos los integrantes del equipo escribimos código tanto para el <b>backend</b>, como para el <b>frontend</b>, de tal forma que todos desarrollamos las US de punta a punta con el objetivo de que haya <b>ownership</b> colectivo de todo el código. Esto significa que todos teníamos que poder hacer todo y tener los conocimientos para hacer todo. Además, en cada iteración un integrante tomó el rol de PM, pero sin dejar el rol de desarrollador y también fue el PM de cada iteración quien se encargó de la gestión de los artefactos.
+  ¿Qué roles asumimos?. En cada iteración todos los integrantes del equipo escribimos código tanto para el <b>backend</b>, como para el <b>frontend</b>, de tal forma que todos desarrollamos las US de punta a punta con el objetivo de que haya <b>ownership</b> colectivo de todo el código. Esto significa que todos teníamos que poder hacer todo y tener los conocimientos para hacer todo. Además, en cada iteración un integrante tomó el rol de PM, pero sin dejar el rol de desarrollador y también fue el PM de cada iteración quien se encargó de la gestión de los artefactos, particularmente un integrante tuvo que repetir el rol de PM, debido a que eran 7 sprints y eramos 6 integrantes, por lo que yo me ofrecí a cumplir con ese cargo en la ultima semana, cuando tuvimos que pulir el producto y diseñar y practicar la demostración del mismo.
 
   </details>
 
